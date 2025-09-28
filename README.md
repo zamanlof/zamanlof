@@ -1,5 +1,4 @@
 <h1>Look Whos Here!</h1>
-![Welcome!](https://img.shields.io/badge/GLITCH-fa1ed2?style=for-the-badge&logo=data:image/svg+xml;base64, PHN2ZyB4bWw...) 
 <hr>
 
 <h3>System Specs &amp; Skills</h3>
@@ -38,7 +37,7 @@
 <h3>Connect &amp; Collaborate</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reja-zaman-7b916d007)
-
+[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zamanrejaz)
 
 <hr>
 
