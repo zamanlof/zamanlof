@@ -1,30 +1,22 @@
 <h1>Look Whos Here!</h1>
+![Welcome!](https://img.shields.io/badge/GLITCH-fa1ed2?style=for-the-badge&logo=data:image/svg+xml;base64, PHN2ZyB4bWw...) 
+<hr>
+
+<h3>System Specs &amp; Skills</h3>
+
 
 <pre style="font-family: monospace;">
-██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗██████╗
-██╔══██╗██║   ██║██╔════╝██╔══██╗██║   ██║██╔══██╗
-██████╔╝██║   ██║█████╗  ██████╔╝██║   ██║██████╔╝
-██╔═══╝ ██║   ██║██╔══╝  ██╔══██╗██║   ██║██╔═══╝
-██║     ╚██████╔╝███████╗██║  ██║╚██████╔╝██║    
-╚═╝      ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝    
+-   Languages: Go (Golang), Python (scripting for DevOps)
+-   Cloud Platforms: AWS (EC2, Lambda, S3), Cloud Automation
+-   OS: Linux (Arch, Ubuntu, Kali)
+-   DevOps Tools: Docker, Kubernetes, Terraform, Jenkins, Prometheus
+-   Security: Basic Cybersecurity, System hardening &amp; penetration testing
+-   Scripting: Bash, Shell scripting, automation workflows
 </pre>
 
 <hr>
 
-<h3>⚙️ System Specs &amp; Skills</h3>
-
-<pre style="font-family: monospace;">
-- 💻 Languages: Go (Golang), Python (scripting for DevOps)
-- ☁️ Cloud Platforms: AWS (EC2, Lambda, S3), Cloud Automation
-- 🐧 OS: Linux (Arch, Ubuntu, Kali)
-- 🔧 DevOps Tools: Docker, Kubernetes, Terraform, Jenkins, Prometheus
-- 🔐 Security: Basic Cybersecurity, System hardening &amp; penetration testing
-- ⚙️ Scripting: Bash, Shell scripting, automation workflows
-</pre>
-
-<hr>
-
-<h3>🔥 The Workflow</h3>
+<h3>The Workflow</h3>
 
 <pre style="font-family: monospace;">
 [Build] --&gt; [Deploy] --&gt; [Automate] --&gt; [Scan] --&gt; [Secure] --&gt; [Repeat]
@@ -43,7 +35,7 @@
 
 <hr>
 
-<h3>🚀 Connect &amp; Collaborate</h3>
+<h3>Connect &amp; Collaborate</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reja-zaman-7b916d007)
 
