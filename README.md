@@ -2,7 +2,7 @@
 
 <hr style="border-color: #15f5c2; border-width: 2px;"/>
 
-<h3 style="font-family: monospace; color: #00ff00;">Fr &amp; Skills</h3>
+<h3 style="font-family: monospace; color: #00ff00;">Fr Skills</h3>
 
 <pre style="font-family: monospace; background-color: #001f1f; padding: 1em; border-radius: 10px; border: 2px solid #00ff00; color: #00ff00;">
 -   Languages: Go (Golang), Python (scripting for DevOps)
