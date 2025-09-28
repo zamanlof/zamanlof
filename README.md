@@ -1,4 +1,4 @@
-<h1>Look whos here</h1>
+<h1>Look Whos Here!</h1>
 
 <pre style="font-family: monospace;">
 ██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗██████╗
@@ -45,10 +45,8 @@
 
 <h3>🚀 Connect &amp; Collaborate</h3>
 
-<pre style="font-family: monospace;">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reja-zaman-7b916d007)
 
-</pre>
 
 <hr>
 
