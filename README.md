@@ -1,4 +1,4 @@
-<h1 style="font-family: monospace; border-bottom: 2px solid #00ff00; padding-bottom: 0.5em;">Maybe Me</h1>
+<h1 style="font-family: monospace; border-bottom: 2px solid #00ff00; padding-bottom: 0.5em;">Maybe Meh</h1>
 
 <hr style="border-color: #15f5c2; border-width: 2px;"/>
 
@@ -52,9 +52,5 @@
 </p>
 
 <hr style="border-color: #15f5c2; border-width: 2px;" />
-
-<blockquote style="font-family: monospace; font-style: italic; border-left: 4px solid #00ff00; padding-left: 1em; color: #00ff00;">
-  “The future is coded by those who dare to break the system.”
-</blockquote>
 
 <hr style="border-color: #15f5c2; border-width: 2px;" />
