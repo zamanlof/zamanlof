@@ -1,7 +1,5 @@
 <h1 style="font-family: monospace; border-bottom: 2px solid #00ff00; padding-bottom: 0.5em;">Maybe Meh</h1>
 
-<hr style="border-color: #15f5c2; border-width: 2px;"/>
-
 <h3 style="font-family: monospace; color: #00ff00;">Fr Skills</h3>
 
 <pre style="font-family: monospace; background-color: #001f1f; padding: 1em; border-radius: 10px; border: 2px solid #00ff00; color: #00ff00;">
@@ -50,7 +48,5 @@
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/zamanlof?color=%2300ff00&logoColor=00ff00&logo=github&style=for-the-badge" />
   </a>
 </p>
-
-<hr style="border-color: #15f5c2; border-width: 2px;" />
 
 <hr style="border-color: #15f5c2; border-width: 2px;" />
