@@ -13,25 +13,6 @@
 
 <hr style="border-color: #15f5c2; border-width: 2px;"/>
 
-<h3 style="font-family: monospace; color: #00ff00;">The Workflow</h3>
-
-<pre style="font-family: monospace; background-color: #001f1f; padding: 1em; border-radius: 10px; border: 2px solid #fa1ed2; color: #fa1ed2;">
-[Build] --&gt; [Deploy] --&gt; [Automate] --&gt; [Scan] --&gt; [Secure] --&gt; [Repeat]
-   |                                         ↑
-   |-----------------------------------------|
-</pre>
-
-<ul style="font-family: monospace; color: #00ff00; list-style-type: none; padding-left: 0;">
-  <li>▸ Cloud engineer in training</li>
-  <li>▸ Rooting and customizing Android devices </li>
-  <li>▸ Containerizing apps for scalable serverless future</li>
-  <li>▸ Driving secure DevSecOps pipelines with Go scripts</li>
-  <li>▸ Exploring packet analysis, network security, penetration testing</li>
-  <li>▸ Lifelong learner chasing the edge of tech evolution</li>
-</ul>
-
-<hr style="border-color: #15f5c2; border-width: 2px;"/>
-
 <h3 style="font-family: monospace; color: #00ff00;">Connect &amp; Collaborate</h3>
 
 <p>
