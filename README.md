@@ -2,7 +2,7 @@
 
 **zaman** here
 
-**22** year old **software engineer**.
+**22** year old **Dev-Sec-Ops engineer**.
 
 I am currently using **Omarchy** on Laptop[(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
