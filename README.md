@@ -14,6 +14,6 @@ Tech stack:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 Commits:
-<img src="https://raw.githubusercontent.com/Spelis/Spelis/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zamanlof/zamanlof/output/snake.svg" alt="Snake animation" />
 
 
