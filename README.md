@@ -1,10 +1,10 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width=110 />
 
-Hello there! I'm **Spelis**.
+**zaman** here
 
-**22** year old **software developer** from **Sweden**.
+**22** year old **software engineer**.
 
-I am currently using **Omarchy** on Laptop[(*dotfiles*)](https://github.com/spelis/dotfiles)
+I am currently using **Omarchy** on Laptop[(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
 Tech stack:
 <div>
