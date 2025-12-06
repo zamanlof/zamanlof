@@ -1,4 +1,4 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/152774420?v=4" width=110 />
+<img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width=110 />
 
 Hello there! I'm **Spelis**.
 
