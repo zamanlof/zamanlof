@@ -1,10 +1,11 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width=110 />
 
-**zaman** here
+**zaman** here!
 
-**22** year old **Dev-Sec-Ops engineer**.
+**21** year old **Dev-Sec-Ops Engineer**.
 
-I am currently using **Omarchy** on Laptop[(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
+Currently running **Omarchy** 
+[(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)for Omarchy
 
 Tech stack:
 <div>
