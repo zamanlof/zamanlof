@@ -4,9 +4,7 @@
 
 **21** year old **Dev-Sec-Ops Engineer**.
 
-Currently running **Omarchy** 
-
-[(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)for Omarchy
+Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
 Tech stack:
 <div>
