@@ -1,24 +1,25 @@
-name: GitHub Languages Stats
+name: Generate Language Stats
 
 on:
   schedule:
-    - cron: "0 */24 * * *"   
+    - cron: "0 */24 * * *"
   workflow_dispatch:
 
 jobs:
-  generate-languages:
+  stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Generate languages SVG
-        uses: AndrewDongminYoo/github-stats-transparent@main
+      - uses: DenverCoder1/readme-stats-action@v1
         with:
           username: notzeman
-          output_path: generated
-          generate_overview: false
-          generate_languages: true
+          output: ./stats
+          stats: languages
+          theme: transparent
+          hide_border: true
+          exclude_forks: true
+          exclude_archived: true
