@@ -1,0 +1,24 @@
+name: GitHub Languages Stats
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"   
+  workflow_dispatch:
+
+jobs:
+  generate-languages:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate languages SVG
+        uses: AndrewDongminYoo/github-stats-transparent@main
+        with:
+          username: notzeman
+          output_path: generated
+          generate_overview: false
+          generate_languages: true
