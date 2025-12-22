@@ -1,8 +1,7 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width=110 />
 
 **zaman** here!
-
-**21** year old **Dev-Sec-Ops Engineer**.
+**Still not a DevOps Engineer**.
 
 Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
