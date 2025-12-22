@@ -2,7 +2,7 @@
 
 **zaman** here!
 
-**Still not a DevOps Engineer**.
+**DevOps Engineer**.
 
 Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
@@ -21,6 +21,3 @@ Tech stack:
 </div>
 Commits:
 <img src="https://raw.githubusercontent.com/zamanlof/zamanlof/output/snake.svg" alt="Snake animation" />
-
-![](https://github.com/?username=notzeman&theme=ambient_gradient)
-
