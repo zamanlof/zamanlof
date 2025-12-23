@@ -1,8 +1,16 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width=110 />
+<img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width="110" />
 
-**zaman** here!
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&speed=90&color=2E9EF7&center=true&vCenter=true&width=520&lines=Hey;Zaman+here!;Aspiring+AWS+%26+DevOps+Engineer;Ready+to+deploy+your+microservices!)](https://git.io/typing-svg)
 
-**AWS DevOps**
+
+</div>
+
+<br clear="left"/>
+<br clear="left"/>
+<br clear="left"/>
+
 
 Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
