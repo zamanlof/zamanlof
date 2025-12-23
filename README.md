@@ -2,7 +2,7 @@
 
 **zaman** here!
 
-**DevOps Engineer**.
+**AWS DevOps**
 
 Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme)
 
