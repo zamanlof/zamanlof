@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&speed=90&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey;Zaman+here!;AWS+%26+DevOps;Ready+to+deploy+your+microservices!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&speed=90&color=FFFFFF&center=true&vCenter=true&width=520&lines=Hey;Zaman+here!;Passionate+in+AWS+%26+DevOps;Creating+CI/CD+pipeline+integrations;Ready+to+deploy+your+microservices!)](https://git.io/typing-svg)
 
 
 </div>
