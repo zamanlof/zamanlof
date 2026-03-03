@@ -1,4 +1,3 @@
-cat README.md
 <img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width="110" />
 
 <div align="center">
