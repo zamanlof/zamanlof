@@ -1,5 +1,3 @@
-<img align="left" src="https://avatars.githubusercontent.com/u/91804218?v=4" width="110" />
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=200&speed=90&color=FFFFFF&center=true&vCenter=true&width=520&lines=Yo!;Yooo;Yoooooooooooooo!!!;Yoooo+yoooo;wattup!!?)](https://git.io/typing-svg)
