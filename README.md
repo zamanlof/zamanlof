@@ -10,7 +10,7 @@
 
 
 
-Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme) **dont use em.. too busy.. i mean lazy to update!**
+Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy-Mercury-theme) **dont use em.. too busy & lazy to update!!**
 
 cool images i placed in readme:
 <div>
