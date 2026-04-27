@@ -23,9 +23,11 @@ Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" height="30" alt="neovim logo" />
 </div>
 
-## Some Stats 
+## Some Stats: 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notzeman&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
 
+## Top Langs:<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notzeman&hide=php)](https://github.com/notzeman)
 
 ## Check out this cool snake:
 <img src="https://raw.githubusercontent.com/zamanlof/zamanlof/output/snake.svg" alt="Snake animation" />
