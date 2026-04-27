@@ -24,10 +24,10 @@ Currently running **Omarchy** [(*dotfiles*)](https://github.com/zamanlof/Omarchy
 </div>
 
 ## Some Stats: 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notzeman&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notzeman&theme=merko&exclude_days=Sun%2CSat)]<br/>
 
 ## Top Langs:<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notzeman&hide=php)](https://github.com/notzeman)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notzeman&hide=php)]
 
 ## Check out this cool snake:
 <img src="https://raw.githubusercontent.com/zamanlof/zamanlof/output/snake.svg" alt="Snake animation" />
